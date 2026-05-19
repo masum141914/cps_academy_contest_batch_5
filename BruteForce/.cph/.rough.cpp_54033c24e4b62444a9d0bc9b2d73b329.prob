@@ -1,1 +1,0 @@
-{"name":"Local: rough","url":"/home/masum1419/Desktop/CPS/BruteForce/rough.cpp","tests":[{"id":1777433932233,"input":"aaaaaabaaaaaaa\nb\n","output":"3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/masum1419/Desktop/CPS/BruteForce/rough.cpp","group":"local","local":true}
