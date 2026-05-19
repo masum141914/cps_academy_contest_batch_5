@@ -1,0 +1,1 @@
+{"name":"Local: Y_ Maximum Production","url":"/home/masum1419/Desktop/CPS/BruteForce/Y_ Maximum Production.cpp","tests":[{"id":1777821640486,"input":"3\n1 2 3 1\n6 2 3 1\n1 2 8 1","output":"14\n19\n14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/masum1419/Desktop/CPS/BruteForce/Y_ Maximum Production.cpp","group":"local","local":true}
