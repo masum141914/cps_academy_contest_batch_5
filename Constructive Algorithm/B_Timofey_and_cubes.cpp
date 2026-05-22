@@ -1,21 +1,24 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void reverseArray(int arr[], int n) {
-    reverse(arr, arr + n);
-}
+int main() {
 
+    int n;
+    cin >> n;
 
-int main(){
+    int arr[n];
 
-    long long n ;
-    cin >> n ;
-
-    long long arr[n] ;
-    for(int i = 0; i < n; i++){
-        cin >> arr[i] ;
+    for(int i = 0; i < n; i++) {
+        cin >> arr[i];
     }
-   
-    
 
+    for(int i = 0; i < n / 2; i += 2) {
+        swap(arr[i], arr[n - i - 1]);
+    }
+
+    for(int i = 0; i < n; i++) {
+        cout << arr[i] << " ";
+    }
+
+    return 0;
 }
